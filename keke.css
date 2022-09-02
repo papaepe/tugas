@@ -1,0 +1,39 @@
+.jumbotron {
+  background-color: #d9dad4;
+  padding-top: 7rem;
+}
+#about {
+  background-color: #a38458;
+}
+#about .container {
+  padding-top: 2rem;
+}
+#projects {
+  background-color: #d9dad4;
+  color: #d9dad4;
+}
+#projects h2 {
+  color: #2a313b;
+}
+img {
+  width: 200;
+}
+#contact {
+  background-color: #a38458;
+}
+#contact .btn {
+  background-color: #2a313b;
+  color: #d9dad4;
+}
+#contact form input {
+  background-color: #d9dad4;
+}
+#contact form textarea {
+  background-color: #d9dad4;
+}
+footer {
+  background-color: #2a313b;
+}
+section{
+  padding-top: 5rem;
+}
